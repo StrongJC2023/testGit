@@ -7,4 +7,8 @@ package com.jc.testgit;
  */
 public class TestController {
     public static final String WORD_TEST = "word_test";
+
+    private String getGrade(){
+        return "grade";
+    }
 }
